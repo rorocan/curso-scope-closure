@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "node",
+            "name": "Ejecutar el archivo actual",
+            "request": "launch",
+            "program": "${workspaceFolder}\\src\\scope\\block.js"
+        }
+    ]
+}
