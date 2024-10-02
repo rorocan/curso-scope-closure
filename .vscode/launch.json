@@ -4,7 +4,7 @@
             "type": "node",
             "name": "Ejecutar el archivo actual",
             "request": "launch",
-            "program": "${workspaceFolder}\\src\\scope\\block.js"
+            "program": "${workspaceFolder}\\src\\scope\\rej.js"
         }
     ]
 }
