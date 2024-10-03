@@ -1,6 +1,6 @@
 
 function greeting() {
-    let username = 'Oscar';
+    let username = 'Rodrigo';
   
     function displayUserName() {
       return `Hello ${username}`;
